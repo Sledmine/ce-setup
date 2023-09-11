@@ -1,5 +1,5 @@
 #define NAME "Halo Custom Edition"
-#define VERSION "1.0.10.621"
+#define VERSION "1.0.10.0621"
 #define AUTHOR "Microsoft, Gearbox Software, Bungie, ShadowMods"
 #define WEBSITE "https://mercury.shadowmods.net/"
 
