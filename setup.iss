@@ -1,5 +1,6 @@
 #define NAME "Halo Custom Edition"
 #define VERSION "1.0.10.0621"
+#define SETUP_VERSION "1.0.0"
 #define AUTHOR "Microsoft, Gearbox Software, Bungie, ShadowMods"
 #define WEBSITE "https://mercury.shadowmods.net/"
 
@@ -19,7 +20,7 @@ DisableProgramGroupPage=yes
 LicenseFile=EULA.md
 ;PrivilegesRequired=lowest
 OutputDir=dist
-OutputBaseFilename=halo_custom_edition-{#VERSION}
+OutputBaseFilename=halo_custom_edition-{#VERSION}+{#SETUP_VERSION}
 Compression=lzma/max
 SolidCompression=yes
 WizardStyle=classic
